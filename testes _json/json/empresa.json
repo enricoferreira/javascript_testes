@@ -1,0 +1,82 @@
+{
+    "funcionarios": [        
+            {
+                "id": 1,
+                "nome": "Paulo Nunes",
+                "salario": 10000.00,
+                "area": 2
+            },
+            {
+                "id": 2,
+                "nome": "Oseinha da Bahia",
+                "salario": 20000.00,
+                "area": 2
+            },
+            {
+                "id": 3,
+                "nome": "Klebão",
+                "salario": 30000.00,
+                "area": 1
+            },
+            {
+                "id": 4,
+                "nome": "Alex",
+                "salario": 40000.00,
+                "area": 1
+            },
+            {
+                "id": 5,
+                "nome": "Zinho",
+                "salario": 50000.00,
+                "area": 1
+            },
+            {
+                "id": 6,
+                "nome": "Arce",
+                "salario": 60000.00,
+                "area": 1
+            },
+            {
+                "id": 7,
+                "nome": "Marcos",
+                "salario": 100000.00,
+                "area": 4
+            },
+            {
+                "id": 10,
+                "nome": "Rogerio",
+                "salario": 100000.00,
+                "area": 3
+            },
+            {
+                "id": 8,
+                "nome": "Roque Junior",
+                "salario": 80000.00,
+                "area": 3
+            },
+            {
+                "id": 9,
+                "nome": "Cesar Sampaio",
+                "salario": 90000.00,
+                "area": 4
+            }            
+    ],
+    "areas":[
+        {
+            "id": 1,
+            "nome": "Desenvolvimento"
+        },
+        {
+            "id": 2,
+            "nome": "Teste"
+        },
+        {
+            "id": 3,
+            "nome": "Suporte"
+        },
+        {
+            "id": 4,
+            "nome": "Diretoria"
+        }
+    ]
+}
